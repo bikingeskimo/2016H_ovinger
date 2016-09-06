@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roger/Documents/Sikkerhet/leksjon2/fargedemo.c
+stdio.h
+-
+fargeskrift.h
+/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.h
+
+/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.c
+fargeskrift.h
+/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.h
+stdio.h
+-
+stdarg.h
+-
+
+/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.h
+
+/home/roger/Documents/Sikkerhet/leksjon2/fargetest.c
+stdlib.h
+-
+stdio.h
+-
+fargeskrift.h
+/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.h
+

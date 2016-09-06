@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/leksjon2.dir/fargedemo.c.o CMakeFiles/leksjon2.dir/fargeskrift.c.o CMakeFiles/leksjon2.dir/fargetest.c.o  -o leksjon2 -rdynamic 

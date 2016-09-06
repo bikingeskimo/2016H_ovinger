@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/roger/Documents/Sikkerhet/leksjon2/build",
+  "command": "/usr/bin/cc      -o CMakeFiles/leksjon2.dir/fargedemo.c.o   -c /home/roger/Documents/Sikkerhet/leksjon2/fargedemo.c",
+  "file": "/home/roger/Documents/Sikkerhet/leksjon2/fargedemo.c"
+},
+{
+  "directory": "/home/roger/Documents/Sikkerhet/leksjon2/build",
+  "command": "/usr/bin/cc      -o CMakeFiles/leksjon2.dir/fargeskrift.c.o   -c /home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.c",
+  "file": "/home/roger/Documents/Sikkerhet/leksjon2/fargeskrift.c"
+},
+{
+  "directory": "/home/roger/Documents/Sikkerhet/leksjon2/build",
+  "command": "/usr/bin/cc      -o CMakeFiles/leksjon2.dir/fargetest.c.o   -c /home/roger/Documents/Sikkerhet/leksjon2/fargetest.c",
+  "file": "/home/roger/Documents/Sikkerhet/leksjon2/fargetest.c"
+}
+]
