@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++1y -Wall -Wextra -Wno-unused-parameter   CMakeFiles/CppProgram.dir/CppProgram.cpp.o  -o CppProgram -rdynamic 

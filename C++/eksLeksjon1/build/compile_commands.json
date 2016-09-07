@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/CppProgram.dir/CppProgram.cpp.o -c /home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/CppProgram.cpp",
+  "file": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/CppProgram.cpp"
+},
+{
+  "directory": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/toerpot.dir/toerpot.cpp.o -c /home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/toerpot.cpp",
+  "file": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/toerpot.cpp"
+},
+{
+  "directory": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/tallfil.dir/tallfil.cpp.o -c /home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/tallfil.cpp",
+  "file": "/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/tallfil.cpp"
+}
+]

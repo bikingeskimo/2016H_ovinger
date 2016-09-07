@@ -1,0 +1,5 @@
+/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build/CMakeFiles/edit_cache.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build/CMakeFiles/CppProgram.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build/CMakeFiles/toerpot.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build/CMakeFiles/tallfil.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/eksLeksjon1/build/CMakeFiles/rebuild_cache.dir
