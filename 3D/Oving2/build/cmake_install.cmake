@@ -1,4 +1,4 @@
-# Install script for directory: /home/roger/Documents/3D/Oving2
+# Install script for directory: /home/roger/Documents/Programmering/2016H_ovinger/3D/Oving2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/roger/Documents/3D/Oving2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

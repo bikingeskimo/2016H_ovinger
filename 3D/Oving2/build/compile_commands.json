@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/roger/Documents/3D/Oving2/build",
-  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/Oving2.dir/main.cpp.o -c /home/roger/Documents/3D/Oving2/main.cpp",
-  "file": "/home/roger/Documents/3D/Oving2/main.cpp"
+  "directory": "/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving2/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/Oving2.dir/main.cpp.o -c /home/roger/Documents/Programmering/2016H_ovinger/3D/Oving2/main.cpp",
+  "file": "/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving2/main.cpp"
 }
 ]

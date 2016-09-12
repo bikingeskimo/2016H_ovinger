@@ -1,3 +1,0 @@
-/home/roger/Documents/3D/Oving3/build/debug/CMakeFiles/edit_cache.dir
-/home/roger/Documents/3D/Oving3/build/debug/CMakeFiles/rebuild_cache.dir
-/home/roger/Documents/3D/Oving3/build/debug/CMakeFiles/Oving3.dir

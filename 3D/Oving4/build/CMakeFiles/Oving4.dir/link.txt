@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++1y -Wall -Wextra -Wno-unused-parameter   CMakeFiles/Oving4.dir/main.cpp.o  -o Oving4 -rdynamic -lpthread -lsfml-system -lsfml-window -lsfml-graphics -lGLU -lGL -lGLEW -lglut -lXmu -lXi 

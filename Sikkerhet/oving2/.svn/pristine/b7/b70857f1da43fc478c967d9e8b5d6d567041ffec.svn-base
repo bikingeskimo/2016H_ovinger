@@ -1,0 +1,24 @@
+CC=gcc
+CFLAGS=-O2
+DEPS=fargeskrift.h
+
+.PHONY: all clean install
+
+.SUFFIXES:
+
+
+all: colortext
+
+%.o: %.c $(DEPS)
+	$(CC) -c $(CFLAGS) $< -o $@
+
+
+colortext: colortext.o fargeskrift.o
+	$(CC) -o colortext  colortext.o fargeskrift.o && ./colortext
+
+clean:
+	rm -f *.o  colortext
+
+install:  colortext
+	cp colortext /usr/local/bin/
+

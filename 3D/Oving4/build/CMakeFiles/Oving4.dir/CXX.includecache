@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/imageloader.h
+
+/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/main.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+SFML/Graphics.hpp
+-
+SFML/OpenGL.hpp
+-
+SFML/System.hpp
+-
+GL/glu.h
+-
+glm/glm.hpp
+-
+stdlib.h
+-
+GL/glut.h
+-
+imageloader.h
+/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/imageloader.h
+

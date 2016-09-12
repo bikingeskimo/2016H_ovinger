@@ -1,0 +1,3 @@
+/home/roger/Documents/Programmering/2016H_ovinger/C++/Oving2/build/CMakeFiles/edit_cache.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/Oving2/build/CMakeFiles/rebuild_cache.dir
+/home/roger/Documents/Programmering/2016H_ovinger/C++/Oving2/build/CMakeFiles/Oving2.dir
