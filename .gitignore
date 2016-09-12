@@ -31,3 +31,10 @@
 # Build libraries
 build/*
 !build/build.xml
+
+# Other libraries
+sfml-bullet-example/*
+sfml-imgui-example/*
+sfml-modern-opengl-example/*
+sfml-old-opengl-example/*
+
