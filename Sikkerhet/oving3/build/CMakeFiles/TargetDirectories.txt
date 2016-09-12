@@ -1,0 +1,3 @@
+/home/roger/Documents/Programmering/Sikkerhet/oving3/build/CMakeFiles/edit_cache.dir
+/home/roger/Documents/Programmering/Sikkerhet/oving3/build/CMakeFiles/rebuild_cache.dir
+/home/roger/Documents/Programmering/Sikkerhet/oving3/build/CMakeFiles/oving3.dir

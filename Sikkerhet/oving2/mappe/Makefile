@@ -1,0 +1,30 @@
+CC=gcc
+CFLAGS=-O2
+DEPS=fargeskrift.h
+DEPS2=colortext.o fargeskrift.o
+NAME = colortext
+
+.PHONY: all clean install
+
+.SUFFIXES:
+
+
+all: colortext
+
+%.o: %.c $(DEPS)
+	$(CC) -c $(CFLAGS) $< -o $@
+	
+%.exe: %.o $(DEPS)
+	$(CC) -o $(CFLAGS) $< -exe $@
+
+%: %.o $(DEPS2)
+	$(CC) -o $(NAME) $(DEPS2) && ./$(NAME)
+
+run: ./colortext
+
+clean:
+	rm -f *.o  colortext
+
+install:  colortext
+	cp colortext /usr/local/bin/
+
