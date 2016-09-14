@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
-project(Oving4)
+project(Testkube)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall -Wextra -Wno-unused-parameter")
 
@@ -23,10 +23,10 @@ include_directories(${GLUT_INCLUDE_DIR})
 
 find_package(Threads REQUIRED)
 
-add_executable(Oving4 main.cpp)
+add_executable(Testkube main.cpp)
 
-target_link_libraries(Oving4 ${CMAKE_THREAD_LIBS_INIT})
-target_link_libraries(Oving4 ${SFML_LIBRARIES})
-target_link_libraries(Oving4 ${OPENGL_LIBRARIES})
-target_link_libraries(Oving4 ${GLEW_LIBRARIES})
-target_link_libraries(Oving4 ${GLUT_LIBRARIES})
+target_link_libraries(Testkube ${CMAKE_THREAD_LIBS_INIT})
+target_link_libraries(Testkube ${SFML_LIBRARIES})
+target_link_libraries(Testkube ${OPENGL_LIBRARIES})
+target_link_libraries(Testkube ${GLEW_LIBRARIES})
+target_link_libraries(Testkube ${GLUT_LIBRARIES})

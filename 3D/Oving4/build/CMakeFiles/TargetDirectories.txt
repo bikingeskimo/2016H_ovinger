@@ -1,3 +1,0 @@
-/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/build/CMakeFiles/rebuild_cache.dir
-/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/build/CMakeFiles/edit_cache.dir
-/home/roger/Documents/Programmering/2016H_ovinger/3D/Oving4/build/CMakeFiles/Oving4.dir
