@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/roger/Documents/2016H_ovinger/3D/Testkube/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra -Wno-unused-parameter   -o CMakeFiles/Testkube.dir/main.cpp.o -c /home/roger/Documents/2016H_ovinger/3D/Testkube/main.cpp",
+  "file": "/home/roger/Documents/2016H_ovinger/3D/Testkube/main.cpp"
+}
+]

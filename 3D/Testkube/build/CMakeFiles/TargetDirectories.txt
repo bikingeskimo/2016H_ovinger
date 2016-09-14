@@ -1,0 +1,3 @@
+/home/roger/Documents/2016H_ovinger/3D/Testkube/build/CMakeFiles/edit_cache.dir
+/home/roger/Documents/2016H_ovinger/3D/Testkube/build/CMakeFiles/rebuild_cache.dir
+/home/roger/Documents/2016H_ovinger/3D/Testkube/build/CMakeFiles/Testkube.dir
